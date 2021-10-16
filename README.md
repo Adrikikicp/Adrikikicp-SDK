@@ -3,6 +3,10 @@
 
 GD SDK that i use for my mods
 
+# What is the meaning of SDK????
+
+SDK is Software Development Kit. This is a GD modding sdk that i use for mods
+
 
 
 
