@@ -10,9 +10,12 @@ void fnlibAdrikikicpSDK()
 }
 
 
+namespace libAdrikikicpSDK{
+
 
 bool sdk() {
 
 	void createWithCCScene();
 	void createWithCCSprite();
+}
 }

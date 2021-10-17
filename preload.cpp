@@ -1,0 +1,1 @@
+libAdrikikicpSDK::sdk::createWithCCScene();
