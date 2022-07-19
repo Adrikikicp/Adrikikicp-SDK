@@ -1,6 +1,9 @@
 # Adrikikicp-SDK
 
+# Disclaimer
+THIS DOESN'T HAVE UPDATES SINCE A WHILE AGO, AND I WOULD RECOMMEND HJFod'S VERSION OF GD.H, AND COCOS-HEADERS
 
+# This is, Adrikikicp SDK
 GD SDK that i use for my mods
 
 # What is the meaning of SDK????
